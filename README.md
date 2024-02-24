@@ -1,3 +1,3 @@
 # Calculator
 
-Live : -  https://murmudali.github.io/Calculator/main/Calculator
+Live : -  https://murmudali.github.io/Calculator/Calculator
